@@ -1,4 +1,4 @@
-# Engineering Order Generator API
+# Engineering Order Generator
 
 This specialized Node.js application uses Express.js to process regulatory bulletins uploaded by users, convert their content into formal engineering orders, and output these as PDFs. The system integrates OpenAI's ChatGPT to intelligently interpret and format the text extracted from PDFs.
 
